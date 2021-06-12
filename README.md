@@ -5,7 +5,9 @@ Hi! My name is Marthe, I am 22 years old and I’m from Horten. I have a bachelo
 
 
 ## My skills
-
+![HTML]
+![CSS]
+![JAVASCRIPT]
 
 ## And my Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marthebjornsen98&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
