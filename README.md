@@ -1,7 +1,6 @@
 # Hi there!
-<a href="https://ibb.co/ncfRT1Y"><img src="https://i.ibb.co/FwJn9Yy/pattern-github.png" width="100%" alt="pattern-github" border="0"></a>
-
 Hi! My name is Marthe, I am 22 years old and I’m from Horten. I have a bachelors degree in graphic design from “Høyskolen Kristiania / Westerdals”, campus Oslo. I´m currently on my first year of Frontend development, from Noroff campus Oslo. I´m a hardworking designer that loves a good challenge, and dont give up on anything.
+<a href="https://ibb.co/ncfRT1Y"><img src="https://i.ibb.co/FwJn9Yy/pattern-github.png" width="100%" alt="pattern-github" border="0"></a>
 
 ## This is my skills
 
