@@ -1,6 +1,5 @@
 # Hi there!
-
-![alt text](https://ibb.co/ncfRT1Y)
+[![An old rock in the desert](/assets/images/https://ibb.co/ncfRT1Y "Shiprock, New Mexico by Beau Rogers")](https://ibb.co/ncfRT1Y)
 
 Hi! My name is Marthe, I am 22 years old and I’m from Horten. I have a bachelors degree in graphic design from “Høyskolen Kristiania / Westerdals”, campus Oslo. I´m currently on my first year of Frontend development, from Noroff campus Oslo. I´m a hardworking designer that loves a good challenge, and dont give up on anything.
 
