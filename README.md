@@ -14,8 +14,6 @@ Hi! My name is Marthe, I am 22 years old and I’m from Horten. I have a bachelo
 ![FIGMA](https://img.shields.io/badge/FIGMA-ff69b4.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-brightgreen.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![INDESIGN](https://img.shields.io/badge/INDESIGN-red.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-00848C.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
 
 ## Current project 
 
