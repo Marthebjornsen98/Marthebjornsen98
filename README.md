@@ -17,6 +17,7 @@ Hi! My name is Marthe, I am 23 years old and I’m from Horten. I have a bachelo
 
 ## Current project
 My current project is a hotel booking site called Holidaze. This is a school project where i made the design and code, i used next.js, Visual Studio Code, MUI styles, scss and styled components. 
+<br/>
 https://graceful-unicorn-884f42.netlify.app/
 
 ## My Github stats
