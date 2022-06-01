@@ -15,7 +15,9 @@ Hi! My name is Marthe, I am 23 years old and I’m from Horten. I have a bachelo
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-brightgreen.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![INDESIGN](https://img.shields.io/badge/INDESIGN-red.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
-## Current project 
+## Current project
+My current project is a hotel booking site called Holidaze. This is a school project where i made the design and code, i used next.js, Visual Studio Code, MUI styles and styled components. 
+https://graceful-unicorn-884f42.netlify.app/
 
 ## My Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marthebjornsen98&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
