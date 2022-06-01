@@ -8,7 +8,7 @@ Hi! My name is Marthe, I am 23 years old and I’m from Horten. I have a bachelo
 ![HTML5](https://img.shields.io/badge/HTML-orange.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-red.svg?style=for-the-badge&logo=react&logoColor=white)
-![NEXT](https://img.shields.io/badge/NEXT-green.svg?style=for-the-badge&logo=react&logoColor=white)
+![NEXT](https://img.shields.io/badge/NEXT-brightgreen.svg?style=for-the-badge&logo=react&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCODE-blue.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-blueviolet.svg?style=for-the-badge&logo=github&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/FIGMA-ff69b4.svg?style=for-the-badge&logo=figma&logoColor=white)
