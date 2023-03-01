@@ -1,5 +1,5 @@
 # Hi there!
-Hi! My name is Marthe, I am 23 years old and I’m from Horten. I have a bachelors degree in graphic design from Høyskolen Kristiania, campus Oslo. I´m currently on my second/last year of Frontend development, from Noroff Campus Oslo. I´m a hardworking designer that loves a good challenge, and dont give up on anything.
+Hi! My name is Marthe, I am 24 years old and I’m from Horten. I have a bachelors degree in graphic design from Høyskolen Kristiania, campus Oslo.  I´m a hardworking designer that loves a good challenge, and dont give up on anything.
 
 
 ## My skills
